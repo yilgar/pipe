@@ -25,7 +25,6 @@
   - [💡 Örnek Kullanımlar](#-örnek-kullanımlar)
   - [📈 Performans](#-performans)
   - [🔒 Güvenlik](#-güvenlik)
-  - [📜 Lisans](#-lisans)
 
 ## 📁 Proje Yapısı
 
@@ -337,14 +336,7 @@ Program aşağıdaki hata durumlarını kontrol eder:
 - Memory deallocation
 - Error state cleanup
 
-## 📜 Lisans
-
-Bu proje 42 School kuralları altında eğitim amaçlı geliştirilmiştir.
 
 ---
-
-**Geliştirici**: yilgar  
-**42 School**: pipex projesi  
-**Tarih**: 2025  
 
 > 💡 **Not**: Bu README.md dosyası projenin kapsamlı bir dokümantasyonunu sağlar. Herhangi bir sorunuz varsa, kodları inceleyebilir veya 42 evaluation sheet'ini kontrol edebilirsiniz.
