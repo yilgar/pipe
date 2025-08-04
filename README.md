@@ -25,7 +25,6 @@
   - [💡 Örnek Kullanımlar](#-örnek-kullanımlar)
   - [📈 Performans](#-performans)
   - [🔒 Güvenlik](#-güvenlik)
-  - [🤝 Katkıda Bulunma](#-katkıda-bulunma)
   - [📜 Lisans](#-lisans)
 
 ## 📁 Proje Yapısı
